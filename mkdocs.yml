@@ -2,7 +2,7 @@ site_name: Wangzc
 nav:
   - 随笔日记:
     - 2025:
-        - 随笔日记\19.md
+        - 随笔日记/19.md
 theme:
   name: material
   language: zh
