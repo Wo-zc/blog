@@ -2,9 +2,28 @@ site_name: Wangzc
 nav:
   - 随笔日记:
     - 2025:
-        - 随笔日记/19.md
+        - 随笔日记\2025\19.md
 theme:
   name: material
   language: zh
   icon:
     logo: material/book
+  font:
+    text: Roboto
+  palette:
+
+    # Toggle light mode
+    - scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: light
+
+    # Toggle dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: dark
