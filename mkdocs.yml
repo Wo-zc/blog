@@ -1,8 +1,8 @@
 site_name: Wangzhichao
 nav:
   - 随笔日记:
-    - 2025:
-        - 随笔日记/2025/19.md
+    - 25:
+      - 25/06.md
 
 
 
@@ -23,3 +23,7 @@ theme:
       scheme: slate
       accent: indigo
       primary: black
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
